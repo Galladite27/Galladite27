@@ -2,7 +2,7 @@
 
 **Software:** ONScripter-EN
 
-**Languages / frameworks / tools:** C, C++, Shell, Makefile, Python, JavaScript, TypeScript, NextJS, Ember.js, C#, Unity
+**Languages / frameworks / tools:** C, C++, Shell, Makefile, Python, JavaScript, TypeScript, NextJS, Ember.js, Mustache, Handlebars, Kotlin, Spring, C#, Unity
 
 <!--
 **Galladite27/Galladite27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
